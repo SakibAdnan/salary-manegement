@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Sakib Adnan",
+        "position": "Web Developer",
+        "email": "sakib@gmail.com",
+        "salary": "45,000",
+        "img": "https://i.ibb.co/Fz06CGK/sakib-market-02.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Alex Heils",
+        "position": "Graphic Designer",
+        "email": "allexheils@gmail.com",
+        "salary": "50,000",
+        "img": "https://i.ibb.co/x5sRcDm/download-1.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Muthual Henry",
+        "position": "Sotware Engineer",
+        "email": "henry@gmail.com",
+        "salary": "75,000",
+        "img": "https://i.ibb.co/718B5ML/download-3.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Jhonsone",
+        "position": "Frontend Developer",
+        "email": "jhonsone@gmail.com",
+        "salary": "45,000", 
+        "img": "https://i.ibb.co/kms3c2t/Getty-Images-1175169410-0.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Fugar Son",
+        "position": "Web Designer",
+        "email": "fugferson@gmail.com",
+        "salary": "35,000",
+        "img": "https://i.ibb.co/JnkhBjw/images-1.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Ruhi Ripa",
+        "position": "graphic Designer",
+        "email": "ruhiripa@gmail.com",
+        "salary": "35,000",
+        "img": "https://i.ibb.co/PxSzKwy/download-2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Jhon Do",
+        "position": "UX UI Designer",
+        "email": "jhondho@gmail.com",
+        "salary": "50,000",
+        "img": "https://i.ibb.co/ZS0xvyP/images-2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Jhon makar",
+        "position": "SEO Expart",
+        "email": "jhonmakar@gmail.com",
+        "salary": "65,500",
+        "img": "https://i.ibb.co/GHwrsC5/images-4.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Rakib Adnan",
+        "position": "APP Developer",
+        "email": "sakib@gmail.com",
+        "salary": "45,000",
+        "img": "https://i.ibb.co/dDx9Pfc/images.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Ahmed Sani",
+        "position": "Android Developer",
+        "email": "ahmedsani@gmail.com",
+        "salary": "45,000",
+        "img": "https://i.ibb.co/Svr0xqD/neil-patel-hs.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Fayslay Kabir",
+        "position": "Web Developer",
+        "email": "sakib@gmail.com",
+        "salary": "45,000",
+        "img": "https://i.ibb.co/NrYgTXh/Pierce-Brown-300x400.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Cokina Bibi",
+        "position": "Digital Marketer",
+        "email": "cokina@gmail.com",
+        "salary": "13,000",
+        "img": "https://i.ibb.co/K9pkH2V/download.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Kuddus Ali",
+        "position": "Wordpress Developer",
+        "email": "kuddus@gmail.com",
+        "salary": "43,050",
+        "img": "https://i.ibb.co/kg9MvM1/Vander-Meer-Jeff-author-photo-by-Kyle-Cassidy-2016-0-0.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Morjina",
+        "position": "Web Developer",
+        "email": "morjina@gmail.com",
+        "salary": "55,300",
+        "img": "https://i.ibb.co/bJCKkMW/images-3.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    },
+    {
+        "name": "Jorina Bibi",
+        "position": "Web designer",
+        "email": "jorina@gmail.com",
+        "salary": "25,000",
+        "img": "https://i.ibb.co/PxSzKwy/download-2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nemo repellat tempora itaque reiciendis cumque quidem architecto delectus est libero dicta explicabo repellendus excepturi corporis quia quaerat, modi voluptatibus consequatur."
+    }
+
+]
+
+
+
+
